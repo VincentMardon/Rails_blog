@@ -1,3 +1,3 @@
-# command_line_RPG
+# Rails blog
 
-Jeu de rôle en ligne de commande créé lors du MOOC sur Ruby du site OpenClassrooms.com
+Blog basique créé lors des exercices du MOOC sur Ruby on Rails
